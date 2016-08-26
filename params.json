@@ -1,6 +1,6 @@
 {
-  "name": "IUCNRelease",
+  "name": "IUCN Visualizer",
   "tagline": "IUCN Visualizer Release",
-  "body": "# IUCN Visualizer Release",
+  "body": "# IUCN Visualizer Release\r\n\r\nA Java visualizer based on [`JGraphX`](https://github.com/jgraph/jgraphx) framework, under BSD license. The project is being developed for the [International Union for Conservation of Nature](https://www.iucn.org), to provide a tool for scientists to visualize their conceptual models of biological systems.\r\n\r\nFor descriptions and instructions of the project, please refer to project [Wiki](https://github.com/tzm41/IUCNRelease/wiki).\r\n\r\nTo download newest version of the app, please see [Releases](https://github.com/tzm41/IUCNRelease/releases).\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
